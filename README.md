@@ -63,7 +63,7 @@ DB_NAME=yourdbname
 PORT=5000
 ```
 
-## Database (MySQL)
+## 🚀 Database (MySQL)
 ### Create Table Example
 ```bash
 CREATE TABLE users (
