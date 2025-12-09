@@ -11,7 +11,7 @@ It includes user authentication (Login & Register) and follows a clean folder st
 ---
 
 ## 📁 Project Structure
-
+```bash
 frontend/
 ├── src/
 │ ├── components/
@@ -33,7 +33,7 @@ backend/
 ├── server.js
 ├── .env
 └── package.json
-
+```
 
 ---
 
@@ -86,7 +86,7 @@ If you'd like, I can also:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-![Login Page](./frontend/src/assets/images/sigIn.png)
+![Login Page](./frontend/src/assets/images/signIn.png)
 
 ### Welcome
 
