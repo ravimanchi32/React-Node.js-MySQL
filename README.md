@@ -75,12 +75,6 @@ CREATE TABLE users (
 ```
 ---
 
-If you'd like, I can also:  
-✅ Add a **badge section** (build, license, version)  
-✅ Add **API documentation**  
-✅ Add **screenshots section** with your real image URLs  
-
-
 ### `npm start`
 
 Runs the app in the development mode.\
