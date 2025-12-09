@@ -42,3 +42,5 @@ dist/
 
 # Local testing
 coverage/
+
+package-lock.json
